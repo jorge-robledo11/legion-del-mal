@@ -2,4 +2,6 @@
 
 1. Joker
 2. Doomsday
-3. Freezer
+3. Lex Luthor
+4. Brainiac
+5. Harley Quinn

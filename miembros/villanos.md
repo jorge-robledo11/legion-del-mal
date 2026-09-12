@@ -5,6 +5,7 @@
 3. Lex Luthor
 4. Brainiac
 5. Harley Quinn
+6. Darkseid
 
 ## Notas
 

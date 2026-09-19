@@ -1,4 +1,4 @@
-![Licencia](https://img.shields.io/github/license/fernando-dev85/legion-del-mal&cacheSeconds=60)
+![Licencia](https://img.shields.io/github/license/jorge-robledo11/legion-del-mal&cacheSeconds=60)
 
 # 🦹‍♂️ La Legión del Mal
 
